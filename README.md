@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @parthdeshmukh21
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Machine Learning and Deep Learning
+- 📫 How to reach me https://www.linkedin.com/in/parthdeshmukh21/
 
 <!---
 parthdeshmukh21/parthdeshmukh21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
