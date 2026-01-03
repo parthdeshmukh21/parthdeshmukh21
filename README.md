@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @parthdeshmukh21
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 👀 I’m interested in DevOps
 - 📫 How to reach me https://www.linkedin.com/in/parthdeshmukh21/
 
 <!---
